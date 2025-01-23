@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm gdh22</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">I am a game server developer living in Korea.</h3>
 
 - 🔭 I’m currently working on [LumenServer](https://github.com/gdh2222/LumenServer)
 
